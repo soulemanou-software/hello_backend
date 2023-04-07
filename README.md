@@ -32,7 +32,7 @@
 
 # 📖 [Hello_backend] <a name="about-project"></a>
 
-**[Hello_backend] ** is a project from the sixth module of the Microverse program. [frontEnd Link](https://github.com/muskan2532150/hello_frontend.git)
+**[Hello_backend] ** is a project from the sixth module of the Microverse program. [frontEnd Link](https://github.com/soulemanou-software/hello_frontend.git)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
